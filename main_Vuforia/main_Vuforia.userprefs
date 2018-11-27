@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Project\Scripts\mainGame_Spawner.cs">
+    <Files>
+      <File FileName="Assets\Project\Scripts\Initial.cs" Line="53" Column="30" />
+      <File FileName="Assets\Project\Scripts\UIController.cs" Line="32" Column="4" />
+      <File FileName="Assets\Project\Scripts\mainGame_Spawner.cs" Line="47" Column="3" />
+      <File FileName="Assets\Project\Scripts\userControll.cs" Line="15" Column="49" />
+      <File FileName="Assets\Project\Scripts\figureScript.cs" Line="19" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="E:\Unity Projects\main_Vuforia\Assets\Project\Scripts\mainGame_Spawner.cs" line="81" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
